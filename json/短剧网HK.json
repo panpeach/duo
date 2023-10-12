@@ -11,7 +11,7 @@
     "首页片单是否Jsoup写法": "1",
 
     "分类起始页码": "1",
-    "分类链接": "https://www.duanju5.com/vodtype/{cateId}-{catePg}.html",
+    "分类链接": "https://www.duanju5.com/vodtype/{cateId}--------{catePg}---.html",
     "分类名称": "逆袭&甜宠&虐恋&穿越&重生",
     "分类名称替换词": "nixi&tianchong&nuelian&chuanyue&chuanyue&chongsheng",   
     "分类截取模式": "1",
