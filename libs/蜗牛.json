@@ -2,7 +2,7 @@
         "二次截取": "module-items&&<footer id=+module-item-cover",
         "数组": "module-item-pic&&module-item-cover",
         "副标题": "module-item-text*>&&</div>",
-        "简介": "剧情：</span>公众号《应用边界》提醒您！请勿相信影片中的广告！&&</span>",
+        "简介": "剧情：</span>&&公众号《应用边界》提醒您！请勿相信影片中的广告！</span>",
         "搜索模式": "0",
         "播放数组": "\"module-blocklist\">&&</div>",
         "播放标题": "<span>&&</span>",
