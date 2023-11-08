@@ -8,6 +8,6 @@
                 "影片类型": "<div class=\"module-info-tag\">&&立即播放",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
-                "分类": "movie$movie#连续剧$tv#综艺$variety#动漫$cartoon",
+                "分类": "电影$movie#连续剧$tv#综艺$variety#动漫$cartoon",
                 "分类url": "https://www.moguys.xyz/vodshow/{cateId}-{area}-------{catePg}---{year}.html"
             }
