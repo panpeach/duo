@@ -328,7 +328,8 @@ HITSMovies,mitv://generationnexxxt.com:19806/873a153ee838437fa797e4b3c401d958
 美亚电影台(粤语),mitv://generationnexxxt.com:19806/15f49aa0548f44eeaa6248f635df05cc
 CHC动作电影,mitv://generationnexxxt.com:19806/855bc155c26d489698a02a890f1684a2
 CHC高清电影,mitv://generationnexxxt.com:19806/78626ad4571f474fa6b5044c0d003d4e
-CHC家庭影院,mitv://generationnexxxt.com:19806/b08b5054487b4685b7ceb7d237154047CCTV6,mitv://generationnexxxt.com:19806/6ba86ebf6131449da50828be35158d55
+CHC家庭影院,mitv://generationnexxxt.com:19806/b08b5054487b4685b7ceb7d237154047
+CCTV6,mitv://generationnexxxt.com:19806/6ba86ebf6131449da50828be35158d55
 天映频道,mitv://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
 天映经典,mitv://generationnexxxt.com:19806/c7cf6992ae514b7e9a92164e4cac30e2
 tvNMoviesHD,mitv://generationnexxxt.com:19806/e44fe8b971a04543a11e412959693f7a
@@ -765,7 +766,8 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
 陈瑞-一生的等待,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583215&response=res&format=mp4&type=convert_url
 张碧晨/杨宗纬-凉凉,https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4
-李袁杰/醉千年,http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4做你的雪莲.艾歌,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5fnU4gUopoTv_Qc.mp4
+李袁杰/醉千年,http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4
+做你的雪莲.艾歌,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5fnU4gUopoTv_Qc.mp4
 最亲爱的你,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglpvV4gUo0pn7iAQ.mp4
 最美的情缘—魏新雨,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkd3x9wUojKzHsgc.mp4
 庄心妍_一万个舍不得,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjqm04gUo4PH90wM.mp4
@@ -787,7 +789,8 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 下一站天后,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgueWa4gUo_-2vowI.mp4
 乌兰托娅_新套马杆,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8cam4gUosMuzpQY.mp4
 乌兰图雅.站在草原望北京,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp6PA4gUo_LGSwQQ.mp4
-乌兰图雅.辣辣的情歌,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsaTA4gUohOr5ngc.mp4冷漠-谁都不要说分手,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_12975393&response=res&format=mp4&type=convert_url
+乌兰图雅.辣辣的情歌,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsaTA4gUohOr5ngc.mp4
+冷漠-谁都不要说分手,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_12975393&response=res&format=mp4&type=convert_url
 冷漠-你把爱情给了谁,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
 冷漠-我是否也在你心中,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4378249&response=res&format=mp4&type=convert_url
 我在红尘中遇见你.冷漠张冬玲,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg88vE4gUo0NP7CA.mp4
@@ -839,8 +842,10 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 美美哒,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4cm74gUo4OSj9gU.mp4
 一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost
 站着等你三千年,https://vdse.bdstatic.com//967f216dea39a6f3ccb44884a219f8ff.mp4
-燕无歇,http://txmov2.a.yximgs.com/upic/2021/01/16/06/BMjAyMTAxMTYwNjU1MDBfMTU0MDc1NjUwOF80MjQ0MTcyNDAxMF8yXzM=_b_B3b8ab9d72d0b82c60425370678668244.mp4贴身侍卫,http://em.21dtv.com/songs/60110002.mkv
-红尘里的花,http://em.21dtv.com/songs/60110001.mkv为爱停留,http://em.21dtv.com/songs/60110006.mkv
+燕无歇,http://txmov2.a.yximgs.com/upic/2021/01/16/06/BMjAyMTAxMTYwNjU1MDBfMTU0MDc1NjUwOF80MjQ0MTcyNDAxMF8yXzM=_b_B3b8ab9d72d0b82c60425370678668244.mp4
+贴身侍卫,http://em.21dtv.com/songs/60110002.mkv
+红尘里的花,http://em.21dtv.com/songs/60110001.mkv
+为爱停留,http://em.21dtv.com/songs/60110006.mkv
 别说谁离不开谁,http://em.21dtv.com/songs/60110007.mkv
 策马扬鞭,http://em.21dtv.com/songs/60110013.mkv
 尘缘情歌,http://em.21dtv.com/songs/60110018.mkv
@@ -907,7 +912,8 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 爱情专属权,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg49ia4gUolMGllwI.mp4
 爱情废柴_周杰伦,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5PbQ7AUogOO80gI.mp4
 爱的世界只有你_孟小笛,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7fi-4gUolta2hgU.mp4
-爱成叹息.冷漠杨小曼,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7c3E4gUo5d70hgI.mp4有你的江南,https://ks-xpc4.xpccdn.com/5dc5d533-dbc1-408f-836f-2e36d59c0e99.mp4
+爱成叹息.冷漠杨小曼,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7c3E4gUo5d70hgI.mp4
+有你的江南,https://ks-xpc4.xpccdn.com/5dc5d533-dbc1-408f-836f-2e36d59c0e99.mp4
 花月成双,https://ks-xpc4.xpccdn.com/ee93d6e8-cc6a-46d6-a3eb-9ebd9f356a8f.mp4
 烟雨行舟粤语版,https://ks-xpc18.xpccdn.com/5eedffe3ed456.mp4
 原创古风剧情向,https://ks-xpc4.xpccdn.com/28c8cc1a-c9cf-4495-8073-0351aeed1917.mp4
@@ -987,7 +993,8 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 卓依婷心挂意无处用,http://vd3.bdstatic.com/mda-jfkgx7x5gki9xpgs/mda-jfkgx7x5gki9xpgs.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷免失志,http://vd3.bdstatic.com/mda-jdngvdh4ru0irwma/mda-jdngvdh4ru0irwma.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷歹路不通行,http://vd3.bdstatic.com/mda-imigfktdeeseud4j/mda-imigfktdeeseud4j.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-卓依婷东南西北风,http://vd3.bdstatic.com/mda-jf9fszd51shymgp6/mda-jf9fszd51shymgp6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D卓依婷蜗牛与黄鹂鸟,http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷东南西北风,http://vd3.bdstatic.com/mda-jf9fszd51shymgp6/mda-jf9fszd51shymgp6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷蜗牛与黄鹂鸟,http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷爱情一阵风,http://vd3.bdstatic.com/mda-jf5fre7jvd0q3rfu/mda-jf5fre7jvd0q3rfu.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷梦醒十分,http://vd3.bdstatic.com/mda-jennyc5ci1ugrxzi/mda-jennyc5ci1ugrxzi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷擦干眼泪,http://vd3.bdstatic.com/mda-jeqd4kq8iwh67a1k/mda-jeqd4kq8iwh67a1k.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
