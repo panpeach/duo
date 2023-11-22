@@ -237,7 +237,7 @@ class Spider(Spider):  # 元类 默认的元类 type
         result = {}
 
         ids = id.split("_")
-        url = 'https://api.bilibili.com/x/player/playurl?avid={0}&cid=%20%20{1}&qn=112'.format(ids[0],ids[1])
+        url = 'https://api.bilibili.com:443/x/player/playurl?avid={0}&cid=%20%20{1}&qn=112'.format(ids[0],ids[1])
         rsp = self.fetch(url,cookies=self.getCookie())
         jRoot = json.loads(rsp.text)
         jo = jRoot['data']
