@@ -1,5 +1,18 @@
 {
   "classes": [
+{
+		"type_name": "励志学习",
+		"type_id": "励志学习"
+	}, {
+		"type_name": "学而思",
+		"type_id": "学而思"
+	}, {
+		"type_name": "看图写话",
+		"type_id": "看图写话"
+	}, {
+		"type_name": "少儿口才",
+		"type_id": "少儿口才"
+	},  
     {
       "type_name": "儿童早教",
       "type_id": "儿童早教"
