@@ -4,55 +4,11 @@
       "type_name": "演唱会",
       "type_id": "演唱会"
     },
-    {
-      "type_name": "粤语",
-      "type_id": "粤语歌曲"
-    },
-    {
-      "type_name": "2022年热榜",
-      "type_id": "2022年热门歌曲"
-    },
-    {
-      "type_name": "KTV热门",
-      "type_id": "KTV热门歌曲"
-    },
-    {
-      "type_name": "滚石经典",
-      "type_id": "滚石歌曲"
-    },
-    {
-      "type_name": "经典老歌",
-      "type_id": "经典老歌"
-    },
-    {
-      "type_name": "古风歌曲",
-      "type_id": "古风歌曲"
-    },
-    {
-      "type_name": "闽南语歌曲",
-      "type_id": "闽南语歌曲"
-    },
-    {
-      "type_name": "印度歌舞",
-      "type_id": "印度歌舞"
-    },
-    {
-      "type_name": "DJ",
-      "type_id": "DJ歌曲"
-    },
-    {
-      "type_name": "网红翻唱",
-      "type_id": "网红翻唱歌曲"
-    },
-    {
-      "type_name": "韩国女团",
-      "type_id": "韩国女团演唱会"
-    },
+{"type_name":"A阿杜","type_id":"阿杜演唱会4K"},	
     {
       "type_name": "A阿黛尔",
       "type_id": "阿黛尔演唱会"
-    },
-    
+    },    
     {
       "type_name": "Blackpink",
       "type_id": "blackpink演唱会"
@@ -161,8 +117,7 @@
     {
       "type_name": "J降央卓玛",
       "type_id": "降央卓玛演唱会"
-    },
-    
+    },    
     {
       "type_name": "J江慧",
       "type_id": "江慧歌曲"
